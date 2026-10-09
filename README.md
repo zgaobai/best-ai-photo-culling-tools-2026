@@ -18,6 +18,7 @@ Last reviewed: 2026-10-10. Capability summaries come from the linked vendor page
 | [Lightroom Classic](https://www.adobe.com/products/photoshop-lightroom-classic.html) | Catalog management and editing | Flags and ratings; assisted features depend on version | Installed version, subscription, and catalog workflow |
 | [Photo Mechanic](https://home.camerabits.com/tour-photo-mechanic/) | Photographer-led ingest and metadata | Manual selection and browsing | Whether manual selection fits your workflow |
 | [FastRawViewer](https://www.fastrawviewer.com/) | RAW inspection | Manual exposure and technical-quality review | Supported cameras/files and your next editor |
+| [Evoto](https://www.evoto.ai/features/ai-culling) | Culling, editing, and retouching | AI culling with duplicate, blur, and closed-eye checks | Current culling availability, supported files, and editing/export credit rules |
 
 All AI suggestions need human review. No measured speed, accuracy, keep rate, or savings are implied by this table.
 
@@ -28,7 +29,7 @@ These guides are published by MomentSift and describe where our browser workflow
 - [Sports photo culling](https://momentsift.com/en/use-cases/sports-photo-culling): compare burst sequences and confirm the action frames you want to keep.
 - [School photo culling](https://momentsift.com/en/use-cases/school-photo-culling): review portraits and closed-eye flags with human confirmation.
 - [Browser and cloud photo culling](https://momentsift.com/en/use-cases/cloud-photo-culling): check installation needs, connectivity, and local/cloud processing.
-- [Selection before Evoto retouching](https://momentsift.com/en/use-cases/evoto-alternative): choose keepers before retouching. Evoto is a downstream editing tool in this workflow; no fixed credit or dollar savings are claimed.
+- [Selection before Evoto retouching](https://momentsift.com/en/use-cases/evoto-alternative): compare a separate browser selection step with Evoto's own culling and retouching workflow. No fixed credit or dollar savings are claimed.
 
 ## The shortlist
 
@@ -95,6 +96,14 @@ RAW-focused inspection helps evaluate exposure and technical quality.
 Check before choosing: An inspection companion rather than an automated AI selector.
 
 [Official features](https://www.fastrawviewer.com/)
+
+### 9. Evoto — Culling connected to retouching
+
+AI culling includes duplicate, blur, and closed-eye checks within a broader editing workflow.
+
+Check before choosing: Compare its own culling workflow with a separate selection tool; verify current culling allowances and export billing. A separate culling step does not imply a fixed saving.
+
+[Official features](https://www.evoto.ai/features/ai-culling) · [Culling documentation](https://support.evoto.ai/smart-culling/)
 
 ## How to compare tools
 
